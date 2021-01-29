@@ -1,0 +1,28 @@
+{
+  "name": "starwarsapi",
+  "version": "1.0.0",
+  "description": "A dynamic website that is created using data retrieved from an API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "API",
+    "Next.js"
+  ],
+  "author": "Bafana Mahamba",
+  "license": "ISC",
+  "dependencies": {
+    "install": "0.13.0",
+    "isomorphic-fetch": "3.0.0",
+    "isomorphic-unfetch": "3.1.0",
+    "next": "10.0.5",
+    "npm": "6.14.11",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "semantic-ui-react": "2.0.3",
+    "swapi-node": "0.6.0"
+  }
+}
